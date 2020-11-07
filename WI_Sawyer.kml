@@ -1,0 +1,11 @@
+<Placemark>
+<visibility>1</visibility>
+<styleUrl>#USCounties</styleUrl>
+<MultiGeometry>
+<LineString>
+<coordinates>
+-90.9244003,46.1547699,0 -90.9250031,45.9810982,0 -90.6768036,45.9816017,0 -90.6785965,45.6383018,0 -91.5401306,45.6376495,0 -91.5420380,45.9826584,0 -91.5516357,45.9833450,0 -91.5510941,46.1571007,0 -91.2500000,46.1577988,0 -90.9244003,46.1547699,0 
+</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
